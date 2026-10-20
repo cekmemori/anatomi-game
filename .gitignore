@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env
+certs/
+.DS_Store
+.vite
+npm-debug.log*
+video_project/
+*.mp4
+*.webm
+shot-*.png
+e2e-out.txt
