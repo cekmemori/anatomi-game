@@ -58,7 +58,14 @@ export default defineConfig({
     port: 5173,
     host: true,
     watch: {
-      ignored: ["**/server/**", "**/server/data/**", "**/data/**"],
+      ignored: [
+        "**/.agent/**",
+        "**/.git/**",
+        "**/dist/**",
+        "**/server/**",
+        "**/server/data/**",
+        "**/data/**",
+      ],
     },
     proxy: {
       "/socket.io": { target: "http://localhost:3001", ws: true },
