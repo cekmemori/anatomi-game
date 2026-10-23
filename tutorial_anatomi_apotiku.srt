@@ -1,56 +1,60 @@
 1
-00:00:00,200 --> 00:00:09,365
-Selamat datang di AnatomiVerse 3D! Platform pembelajaran anatomi interaktif di anatomi.apotiku.id.
+00:00:00,200 --> 00:00:08,980
+Belajar anatomi manusia bukan lagi soal menghafal gambar mati di buku tebal.
 
 2
-00:00:09,515 --> 00:00:18,680
-Di halaman awal, Anda dapat langsung memilih mode belajar mulai dari eksplorasi 3D, kuis, hingga akses guru dan siswa.
+00:00:09,130 --> 00:00:17,910
+Selamat datang di AnatomiVerse 3D — laboratorium anatomi interaktif berbasis web,
 
 3
-00:00:19,230 --> 00:00:29,190
-Pada menu Jelajah 3D, kita dapat memutar, memperbesar, dan menggeser model anatomi secara bebas.
+00:00:18,060 --> 00:00:26,840
+menghidupkan 8 sistem organ dan 31 organ tubuh manusia langsung di layar tanpa instalasi!
 
 4
-00:00:29,340 --> 00:00:39,300
-Tersedia filter sistem organ. Klik pada organ untuk membuka panel informasi medis yang lengkap.
+00:00:27,390 --> 00:00:35,963
+Bedah tubuh manusia lapis demi lapis hanya dengan sentuhan jari dalam 360 derajat.
 
 5
-00:00:39,850 --> 00:00:47,865
-Fitur Kuis Anatomi menguji pemahaman lewat soal pilihan ganda interaktif.
+00:00:36,113 --> 00:00:44,686
+Dari sistem rangka, otot, peredaran darah, hingga saraf — jelajahi organ dengan detail klinis,
 
 6
-00:00:48,015 --> 00:00:56,030
-Pilih sistem organ, jawab soal, dan dapatkan umpan balik penjelasan serta poin XP secara instan.
+00:00:44,836 --> 00:00:53,410
+lengkap dengan audio pelafalan ilmiah dan fakta medis esensial.
 
 7
-00:00:56,580 --> 00:01:04,545
-Halaman Guru dapat diakses dengan PIN khusus untuk membuka dashboard pengajar.
+00:00:53,960 --> 00:01:02,415
+Uji ketangkasan berpikir! Lewat Misi 3D, siswa ditantang menemukan organ secara spasial berpacu dengan waktu.
 
 8
-00:01:04,695 --> 00:01:12,659
-Guru dapat memantau evaluasi siswa, statistik nilai kelas, dan mengekspor rekap hasil belajar ke CSV.
+00:01:02,565 --> 00:01:11,020
+Dilengkapi Kuis Berbobot dengan kunci jawaban otomatis yang nyaman dan responsif diakses dari handphone.
 
 9
-00:01:13,210 --> 00:01:20,950
-Fitur Live Board memungkinkan guru menyelenggarakan sesi kuis interaktif langsung di kelas.
+00:01:11,570 --> 00:01:18,189
+Masuk instan cukup dengan Nama dan PIN — tanpa ribet email dan password.
 
 10
-00:01:21,100 --> 00:01:28,840
-Atur jumlah soal dan timer. Sistem membuat kode ruangan dan QR Code untuk siswa bergabung secara realtime.
+00:01:18,340 --> 00:01:24,959
+Raih XP di setiap eksplorasi, bangun streak belajar harian, dan kumpulkan lencana prestasi.
 
 11
-00:01:29,390 --> 00:01:36,169
-Di sisi siswa, cukup buka menu Gabung Sesi, masukkan nama dan kode ruangan dari guru.
+00:01:25,110 --> 00:01:31,730
+Belajar biologi kini terasa seasyik bermain game kompetitif!
 
 12
-00:01:36,319 --> 00:01:43,099
-Saat kuis dimulai, siswa langsung menjawab soal dari perangkat masing-masing secara kompetitif.
+00:01:32,280 --> 00:01:40,655
+Hadirkan atmosfer kelas kelas dunia! Lewat Live Board, guru memandu kuis tatap muka secara langsung.
 
 13
-00:01:43,650 --> 00:01:50,234
-Fitur gamifikasi seperti Misi Temukan Organ dan Lencana memotivasi siswa terus belajar.
+00:01:40,805 --> 00:01:49,180
+Pantau jawaban siswa secara real-time dan unduh rekapitulasi nilai rapor otomatis berformat CSV dalam satu klik.
 
 14
-00:01:50,385 --> 00:01:56,969
-Kunjungi anatomi.apotiku.id sekarang dan nikmati belajar anatomi interaktif yang menyenangkan!
+00:01:49,730 --> 00:01:56,340
+Siap merevolusi cara belajar anatomi di sekolah Anda?
+
+15
+00:01:56,490 --> 00:02:03,100
+Akses sekarang gratis di anatomi.apotiku.id — jelajahi keajaiban tubuh manusia hari ini juga!
 

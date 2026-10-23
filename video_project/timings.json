@@ -1,0 +1,77 @@
+[
+  {
+    "id": "scene_01_landing",
+    "title": "Halaman Awal (Landing Page)",
+    "audio_file": "video_project/audio/scene_01_landing.mp3",
+    "duration": 26.59,
+    "scene_duration": 27.2,
+    "text": "Belajar anatomi manusia bukan lagi soal menghafal gambar mati di buku tebal. Selamat datang di AnatomiVerse 3D — laboratorium anatomi interaktif berbasis web yang menghidupkan 8 sistem organ dan 31 organ tubuh manusia langsung di layar Anda, tanpa perlu instalasi aplikasi berat!",
+    "subtitles": [
+      "Belajar anatomi manusia bukan lagi soal menghafal gambar mati di buku tebal.",
+      "Selamat datang di AnatomiVerse 3D — laboratorium anatomi interaktif berbasis web,",
+      "menghidupkan 8 sistem organ dan 31 organ tubuh manusia langsung di layar tanpa instalasi!"
+    ]
+  },
+  {
+    "id": "scene_02_explore",
+    "title": "Jelajah 3D Organ Tubuh",
+    "audio_file": "video_project/audio/scene_02_explore.mp3",
+    "duration": 25.97,
+    "scene_duration": 26.6,
+    "text": "Bedah tubuh manusia lapis demi lapis hanya dengan sentuhan jari. Dari sistem rangka, otot, peredaran darah, hingga saraf — jelajahi organ dalam 360 derajat dengan detail klinis, lengkap dengan audio pelafalan ilmiah dan fakta medis esensial.",
+    "subtitles": [
+      "Bedah tubuh manusia lapis demi lapis hanya dengan sentuhan jari dalam 360 derajat.",
+      "Dari sistem rangka, otot, peredaran darah, hingga saraf — jelajahi organ dengan detail klinis,",
+      "lengkap dengan audio pelafalan ilmiah dan fakta medis esensial."
+    ]
+  },
+  {
+    "id": "scene_03_misi_kuis",
+    "title": "Misi & Kuis Interaktif",
+    "audio_file": "video_project/audio/scene_03_misi_kuis.mp3",
+    "duration": 17.01,
+    "scene_duration": 17.6,
+    "text": "Uji ketangkasan berpikir dalam hitungan detik! Lewat Misi 3D, siswa ditantang menemukan organ secara spasial berpacu dengan waktu. Dilengkapi Kuis Berbobot dengan kunci jawaban otomatis yang nyaman dan responsif diakses dari handphone.",
+    "subtitles": [
+      "Uji ketangkasan berpikir! Lewat Misi 3D, siswa ditantang menemukan organ secara spasial berpacu dengan waktu.",
+      "Dilengkapi Kuis Berbobot dengan kunci jawaban otomatis yang nyaman dan responsif diakses dari handphone."
+    ]
+  },
+  {
+    "id": "scene_04_portal_siswa",
+    "title": "Portal Siswa & Prestasi",
+    "audio_file": "video_project/audio/scene_04_portal_siswa.mp3",
+    "duration": 20.11,
+    "scene_duration": 20.7,
+    "text": "Masuk instan cukup dengan Nama dan PIN — tanpa ribet email dan password. Raih XP di setiap eksplorasi, bangun streak belajar harian, dan kumpulkan lencana prestasi. Belajar biologi kini terasa seasyik bermain game kompetitif!",
+    "subtitles": [
+      "Masuk instan cukup dengan Nama dan PIN — tanpa ribet email dan password.",
+      "Raih XP di setiap eksplorasi, bangun streak belajar harian, dan kumpulkan lencana prestasi.",
+      "Belajar biologi kini terasa seasyik bermain game kompetitif!"
+    ]
+  },
+  {
+    "id": "scene_05_portal_guru",
+    "title": "Dashboard Guru & Live Board",
+    "audio_file": "video_project/audio/scene_05_portal_guru.mp3",
+    "duration": 16.85,
+    "scene_duration": 17.5,
+    "text": "Hadirkan atmosfer kelas kelas dunia! Dengan fitur Live Board, guru dapat memandu kuis tatap muka secara langsung, melihat jawaban siswa secara real-time, dan mengunduh rekapitulasi nilai rapor otomatis berformat CSV hanya dalam satu klik.",
+    "subtitles": [
+      "Hadirkan atmosfer kelas kelas dunia! Lewat Live Board, guru memandu kuis tatap muka secara langsung.",
+      "Pantau jawaban siswa secara real-time dan unduh rekapitulasi nilai rapor otomatis berformat CSV dalam satu klik."
+    ]
+  },
+  {
+    "id": "scene_06_penutup",
+    "title": "Akses Gratis Sekarang",
+    "audio_file": "video_project/audio/scene_06_penutup.mp3",
+    "duration": 13.32,
+    "scene_duration": 13.9,
+    "text": "Siap merevolusi cara belajar anatomi di sekolah Anda? Akses sekarang gratis di anatomi.apotiku.id — jelajahi keajaiban tubuh manusia hari ini juga!",
+    "subtitles": [
+      "Siap merevolusi cara belajar anatomi di sekolah Anda?",
+      "Akses sekarang gratis di anatomi.apotiku.id — jelajahi keajaiban tubuh manusia hari ini juga!"
+    ]
+  }
+]
