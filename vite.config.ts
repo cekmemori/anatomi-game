@@ -65,6 +65,7 @@ export default defineConfig({
         "**/server/**",
         "**/server/data/**",
         "**/data/**",
+        "**/suara/**",
       ],
     },
     proxy: {
